@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pilsen-guide/static/css/main.03179ed2.css",
-    "main.js": "/pilsen-guide/static/js/main.136e26bc.js",
+    "main.css": "/pilsen-guide/static/css/main.b10556cc.css",
+    "main.js": "/pilsen-guide/static/js/main.1753edaa.js",
     "static/js/453.c1a5fc6d.chunk.js": "/pilsen-guide/static/js/453.c1a5fc6d.chunk.js",
-    "static/media/test.webp": "/pilsen-guide/static/media/test.ee6185e2201d082f353b.webp",
+    "static/media/cta.webp": "/pilsen-guide/static/media/cta.ee6185e2201d082f353b.webp",
     "static/media/culture1.jpeg": "/pilsen-guide/static/media/culture1.a93484bb18b3e59ad713.jpeg",
     "static/media/mural_bg.jpeg": "/pilsen-guide/static/media/mural_bg.6f4010660f7a082d79eb.jpeg",
+    "static/media/festival.webp": "/pilsen-guide/static/media/festival.698be91f5568a3b01565.webp",
     "static/media/history_1.jpg": "/pilsen-guide/static/media/history_1.e54a0080503bbc4e4def.jpg",
-    "static/media/logo.svg": "/pilsen-guide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pilsen-guide/index.html",
-    "main.03179ed2.css.map": "/pilsen-guide/static/css/main.03179ed2.css.map",
-    "main.136e26bc.js.map": "/pilsen-guide/static/js/main.136e26bc.js.map",
+    "main.b10556cc.css.map": "/pilsen-guide/static/css/main.b10556cc.css.map",
+    "main.1753edaa.js.map": "/pilsen-guide/static/js/main.1753edaa.js.map",
     "453.c1a5fc6d.chunk.js.map": "/pilsen-guide/static/js/453.c1a5fc6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03179ed2.css",
-    "static/js/main.136e26bc.js"
+    "static/css/main.b10556cc.css",
+    "static/js/main.1753edaa.js"
   ]
 }
