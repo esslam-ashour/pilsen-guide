@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cegu22211-final-project/static/css/main.5492a12f.css",
+    "main.js": "/cegu22211-final-project/static/js/main.d14f6e83.js",
+    "static/js/453.d2f495e9.chunk.js": "/cegu22211-final-project/static/js/453.d2f495e9.chunk.js",
+    "static/media/test.webp": "/cegu22211-final-project/static/media/test.ee6185e2201d082f353b.webp",
+    "static/media/culture1.jpeg": "/cegu22211-final-project/static/media/culture1.a93484bb18b3e59ad713.jpeg",
+    "static/media/mural_bg.jpeg": "/cegu22211-final-project/static/media/mural_bg.6f4010660f7a082d79eb.jpeg",
+    "static/media/history_1.jpg": "/cegu22211-final-project/static/media/history_1.e54a0080503bbc4e4def.jpg",
+    "static/media/logo.svg": "/cegu22211-final-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cegu22211-final-project/index.html",
+    "main.5492a12f.css.map": "/cegu22211-final-project/static/css/main.5492a12f.css.map",
+    "main.d14f6e83.js.map": "/cegu22211-final-project/static/js/main.d14f6e83.js.map",
+    "453.d2f495e9.chunk.js.map": "/cegu22211-final-project/static/js/453.d2f495e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5492a12f.css",
+    "static/js/main.d14f6e83.js"
+  ]
+}
